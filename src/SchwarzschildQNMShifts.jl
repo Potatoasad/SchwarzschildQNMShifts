@@ -48,7 +48,5 @@ c1 = SemiInfiniteLine(bottomright,bottomright+im*1.0,false)
 c2 = LineSegment(bottomright,bottomleft)
 c1 = SemiInfiniteLine(bottomleft,bottomleft+im*1.0,true)
 
-plot(EquationIntegrand, c1)
-
 
 end # module
