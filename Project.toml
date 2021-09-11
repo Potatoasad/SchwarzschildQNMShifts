@@ -2,3 +2,7 @@ name = "SchwarzschildQNMShifts"
 uuid = "ba033849-c081-4676-8bdf-4a607b676aff"
 authors = ["Asad Hussain <asadh@utexas.edu>"]
 version = "0.1.0"
+
+[deps]
+ContourIntegrals = "6a132690-a590-47c4-bd18-f8366a4f4167"
+LeaverSchwQNM = "26e2483c-76c2-4c04-905f-1ad69dc23615"
